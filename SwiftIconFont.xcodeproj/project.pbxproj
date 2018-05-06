@@ -46,6 +46,7 @@
 		DAD008301F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD0082F1F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift */; };
 		DAD008341F90D2FC00D4FC34 /* SwiftIconFont+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008331F90D2FC00D4FC34 /* SwiftIconFont+String.swift */; };
 		DAD008381F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008371F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift */; };
+		E8BCFEEA209F908300514E8C /* FontAwesomeFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BCFEE9209F908300514E8C /* FontAwesomeFive.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -101,6 +102,8 @@
 		DAD0082F1F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UILabel.swift"; sourceTree = "<group>"; };
 		DAD008331F90D2FC00D4FC34 /* SwiftIconFont+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+String.swift"; sourceTree = "<group>"; usesTabs = 0; };
 		DAD008371F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIImageView.swift"; sourceTree = "<group>"; };
+		E8BCFEE9209F908300514E8C /* FontAwesomeFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontAwesomeFive.swift; sourceTree = "<group>"; };
+		E8BCFEEC209F91F400514E8C /* Font Awesome 5 Free.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Font Awesome 5 Free.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +166,7 @@
 		DA8D9D2B1D345A4500F5E693 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				E8BCFEEC209F91F400514E8C /* Font Awesome 5 Free.ttf */,
 				1AF15B93209E196500E20C14 /* Segoe mdl2 assets.ttf */,
 				DA8D9D2C1D345A4500F5E693 /* FontAwesome.ttf */,
 				DA8D9D2D1D345A4500F5E693 /* Ionicons.ttf */,
@@ -230,6 +234,7 @@
 				DA8D9D411D345A4900F5E693 /* Octicon.swift */,
 				DA8D9D491D345A4900F5E693 /* ThemifyIcon.swift */,
 				1AF15B95209E198D00E20C14 /* SegoeMDL2.swift */,
+				E8BCFEE9209F908300514E8C /* FontAwesomeFive.swift */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -367,6 +372,7 @@
 				DA8D9D4B1D345A4900F5E693 /* FontLoader.swift in Sources */,
 				DAD008241F90D1D500D4FC34 /* SwiftIconFont+NSRange.swift in Sources */,
 				DA8D9D571D345A4900F5E693 /* SwiftIconTextView.swift in Sources */,
+				E8BCFEEA209F908300514E8C /* FontAwesomeFive.swift in Sources */,
 				DA223AA91F160FAC005915D0 /* SwiftIconFontView.swift in Sources */,
 				DA8D9D521D345A4900F5E693 /* SwiftIconButton.swift in Sources */,
 				DAD008381F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift in Sources */,

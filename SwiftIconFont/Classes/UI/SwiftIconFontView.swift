@@ -15,7 +15,7 @@ import UIKit
         didSet {
             iconFont = GetFontTypeWithSelectedIcon(iconCode)
             let iconText = GetIconIndexWithSelectedIcon(iconCode)
-            self.iconView.text = String.getIcon(from: iconFont, code: iconText)
+            self.iconView.text = String.getIcon(from: iconFont, code: iconText)!
         }
     }
     
